@@ -35,7 +35,7 @@ module.exports = {
   */
   plugins: [
     {
-      src: '~/plugins/sw.js',
+      src: '~/plugins/sw_plugin.js',
       ssr: false
     }
   ],
